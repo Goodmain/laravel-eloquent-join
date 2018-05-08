@@ -1,5 +1,5 @@
 {
-    "name": "fico7489/laravel-eloquent-join",
+    "name": "Goodmain/laravel-eloquent-join",
     "description": "This package introduces the join capability for sorting and filtering on eloquent relations.",
     "keywords": [
         "laravel eloquent join",
